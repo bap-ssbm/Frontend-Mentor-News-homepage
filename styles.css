@@ -265,9 +265,10 @@ img{
   } 
 
 .x-button{
-    background-color:white;
+    background-color:transparent;
     height: 25px;
     width: 25px;
+    margin: 0;
     border:none;
     padding: 0;
     font-size: 30px;
@@ -275,6 +276,9 @@ img{
     right: 5px;
     top: 30px;
     color: black;
+    
+  }
+  .fa-x{
     z-index: 200;
   }
 .hide-x{
