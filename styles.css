@@ -275,6 +275,7 @@ img{
     right: 5px;
     top: 30px;
     color: black;
+    z-index: 200;
   }
 .hide-x{
     visibility: collapse;
